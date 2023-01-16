@@ -50,7 +50,7 @@ public class Customer {
 			e.printStackTrace();
 		}
 	}
-// creating setter anf getter
+// creating setter and getter
 	public String getPhoneNumber() {
 		return phoneNumber;
 	}
