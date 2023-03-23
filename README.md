@@ -5,7 +5,7 @@
 
 
 <br>
-<img src="https://github.com/MohammadMahdiOmid/UniversityCodes/blob/master/AirportManagement/src/application/resource/screenshots/1.JPG" alt="screenshot" >
+<img src="https://github.com/MohammadMahdiOmid/src/application/resource/screenshots/1.JPG" alt="screenshot" >
 <br>
 <img src="https://github.com/MohammadMahdiOmid/UniversityCodes/blob/master/AirportManagement/src/application/resource/screenshots/2.JPG" alt="screenshot" >
 <br>
